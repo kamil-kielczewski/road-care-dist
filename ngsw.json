@@ -1,0 +1,79 @@
+{
+  "configVersion": 1,
+  "timestamp": 1715162436013,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-KQFROELO.js",
+        "/manifest.webmanifest",
+        "/polyfills-S3BTP7ME.js",
+        "/styles-5INURTSO.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "2981499b343c7a2f5f810582a5ff740e4869e785",
+    "/assets/icons/icon-144x144.png": "30991fc26fb8d671f26b154c58cc8116356d02bf",
+    "/assets/icons/icon-152x152.png": "d0ba5aa9b4d149af81b2fb3f83540696836bdc24",
+    "/assets/icons/icon-192x192.png": "be469b5404bcafb4ef8c1c9fb0f5d7ba1e4d9277",
+    "/assets/icons/icon-384x384.png": "4d198346255cd5fade2fcbed4531968b904f51e5",
+    "/assets/icons/icon-512x512.png": "0fa231b26f920fc09ac26141aceba762f60ff3b0",
+    "/assets/icons/icon-72x72.png": "de0f009366101b8072e9706ab1fafe768ca57ac6",
+    "/assets/icons/icon-96x96.png": "32c5941c357ba27ba25495028d6021f963bc5408",
+    "/favicon.ico": "d91c55d8609a997f11eadd3715427633be33c502",
+    "/index.html": "229a95fc0f3b27c83b3d5f1c6a6633464d2b524f",
+    "/main-KQFROELO.js": "a7cdd82ef4569aaca521cba714c373798f5b6da7",
+    "/manifest.webmanifest": "6376285d2037e4e70c0fe1c70a00e814159d0b5f",
+    "/polyfills-S3BTP7ME.js": "893d641030c187f109c667de1b0a73a03095fa3b",
+    "/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
