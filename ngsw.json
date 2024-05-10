@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1715260531182,
+  "timestamp": 1715342586541,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-YWHUYOLC.js",
+        "/main-VIYOBENL.js",
         "/manifest.webmanifest",
         "/polyfills-S3BTP7ME.js",
-        "/styles-VP23M3SV.css"
+        "/styles-OLOOJCIY.css"
       ],
       "patterns": []
     },
@@ -28,6 +28,8 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/icons/arrow.svg",
+        "/assets/icons/camera.svg",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -35,13 +37,19 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/location.svg",
+        "/assets/icons/microphone.svg",
+        "/assets/icons/microphonelight.svg",
+        "/assets/icons/search.svg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/icons/arrow.svg": "1f99db4df7cf0b0fdabadad767c75dd8b3626951",
+    "/assets/icons/camera.svg": "4e83362280b8a7c8bd1c82ee200595a294954364",
     "/assets/icons/icon-128x128.png": "2981499b343c7a2f5f810582a5ff740e4869e785",
     "/assets/icons/icon-144x144.png": "30991fc26fb8d671f26b154c58cc8116356d02bf",
     "/assets/icons/icon-152x152.png": "d0ba5aa9b4d149af81b2fb3f83540696836bdc24",
@@ -50,12 +58,16 @@
     "/assets/icons/icon-512x512.png": "0fa231b26f920fc09ac26141aceba762f60ff3b0",
     "/assets/icons/icon-72x72.png": "de0f009366101b8072e9706ab1fafe768ca57ac6",
     "/assets/icons/icon-96x96.png": "32c5941c357ba27ba25495028d6021f963bc5408",
+    "/assets/icons/location.svg": "9c9b9bf52404c1c194a5bc962eb6b3fd5c378d90",
+    "/assets/icons/microphone.svg": "fdb5de8aeaa4bdbb9dba655995c8c6cb418d34d7",
+    "/assets/icons/microphonelight.svg": "a22795e2129cc236643318e3983235bfc4a09476",
+    "/assets/icons/search.svg": "4611c6d29ebbac0310696a7cc372dfb16eacaf98",
     "/favicon.ico": "d91c55d8609a997f11eadd3715427633be33c502",
-    "/index.html": "5a486e87b7359d627921cff15f1b001bad283524",
-    "/main-YWHUYOLC.js": "470669877724552a7313fd5ce6bf62b8d1e182a9",
+    "/index.html": "ff29e2f3a64e921537462c966db9b81580aa193a",
+    "/main-VIYOBENL.js": "4ad5da173521df6b635dbf7cffc8910c70c8bbe1",
     "/manifest.webmanifest": "6376285d2037e4e70c0fe1c70a00e814159d0b5f",
     "/polyfills-S3BTP7ME.js": "893d641030c187f109c667de1b0a73a03095fa3b",
-    "/styles-VP23M3SV.css": "969766f8623893e1f693d7dd645083ea735801b2"
+    "/styles-OLOOJCIY.css": "d9e272bdbf6330554ec3501a195e62351753d9ce"
   },
   "navigationUrls": [
     {
