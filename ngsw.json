@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1715693863227,
+  "timestamp": 1715779373095,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-LWY77RWT.js",
+        "/main-UFCYAA7G.js",
         "/manifest.webmanifest",
         "/polyfills-S3BTP7ME.js",
-        "/styles-LX2V5TLW.css"
+        "/styles-A7C2D6TU.css"
       ],
       "patterns": []
     },
@@ -43,6 +43,7 @@
         "/assets/icons/microphonelight.svg",
         "/assets/icons/search.svg",
         "/assets/img/background.webp",
+        "/assets/img/concept.dark.png",
         "/media/background-L4REP6ER.webp"
       ],
       "patterns": []
@@ -60,18 +61,19 @@
     "/assets/icons/icon-512x512.png": "0fa231b26f920fc09ac26141aceba762f60ff3b0",
     "/assets/icons/icon-72x72.png": "de0f009366101b8072e9706ab1fafe768ca57ac6",
     "/assets/icons/icon-96x96.png": "32c5941c357ba27ba25495028d6021f963bc5408",
-    "/assets/icons/location.svg": "8de32c6276e05b396a8f7d6983cc24fbc8b769c6",
-    "/assets/icons/microphone.svg": "81884f2325701fd67551cff8877b2841486be861",
+    "/assets/icons/location.svg": "589d4e6a8ee95fc876d606dd4dd679fc1589414f",
+    "/assets/icons/microphone.svg": "5a2dfcaa8cd4c2dd2300f9b98aab2380f75f692a",
     "/assets/icons/microphonelight.svg": "fd02710d68a4baf8a246e919c215923f0fbdb5af",
-    "/assets/icons/search.svg": "685413d064a9b6b6f3e4915e9d1d161e8efb93c9",
+    "/assets/icons/search.svg": "33c9d9ea885438f35fff197145e37efeae198d74",
     "/assets/img/background.webp": "30d50f8359863f4f5c189326bd371f97196738cc",
+    "/assets/img/concept.dark.png": "8edf7dbbe4af5f84e5655c7c9f0eeaa57c437411",
     "/favicon.ico": "d91c55d8609a997f11eadd3715427633be33c502",
-    "/index.html": "3bfef96ca21a7f89d363245ef61e92f2e1812cb0",
-    "/main-LWY77RWT.js": "b1bad9a32460194f3e0ca2e586030c439f5f4423",
+    "/index.html": "3cad274af058ac3fc7b6857044a5677b136850d3",
+    "/main-UFCYAA7G.js": "d6b10ac24bbc8a4826a39204213a87b3b01d8643",
     "/manifest.webmanifest": "6376285d2037e4e70c0fe1c70a00e814159d0b5f",
     "/media/background-L4REP6ER.webp": "30d50f8359863f4f5c189326bd371f97196738cc",
     "/polyfills-S3BTP7ME.js": "893d641030c187f109c667de1b0a73a03095fa3b",
-    "/styles-LX2V5TLW.css": "2640d32273201849dee27e5835578a5977da2771"
+    "/styles-A7C2D6TU.css": "51e27f5350b4548a164199954ef0146052d869e0"
   },
   "navigationUrls": [
     {
