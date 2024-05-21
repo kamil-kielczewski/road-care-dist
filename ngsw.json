@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1715953283827,
+  "timestamp": 1716277190930,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-TMJL3D6T.js",
+        "/main-7NHTET3W.js",
         "/manifest.webmanifest",
         "/polyfills-S3BTP7ME.js",
-        "/styles-KKBHDPDU.css"
+        "/styles-PCARJP5K.css"
       ],
       "patterns": []
     },
@@ -29,6 +29,7 @@
       },
       "urls": [
         "/assets/icons/arrow.svg",
+        "/assets/icons/avatar.png",
         "/assets/icons/camera.svg",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
@@ -44,7 +45,7 @@
         "/assets/icons/search.svg",
         "/assets/img/background.webp",
         "/assets/img/concept.dark.png",
-        "/media/background-L4REP6ER.webp"
+        "/media/background-XQYGQZ4G.webp"
       ],
       "patterns": []
     }
@@ -52,6 +53,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/icons/arrow.svg": "178127ee532f192b136563c4a9ee845ce68c0548",
+    "/assets/icons/avatar.png": "2f9d3e443da016049a7b813e2f3f015b5242e871",
     "/assets/icons/camera.svg": "cd0eab6ccdbcb1277c9504f6a54bccefaa9fd00f",
     "/assets/icons/icon-128x128.png": "2981499b343c7a2f5f810582a5ff740e4869e785",
     "/assets/icons/icon-144x144.png": "30991fc26fb8d671f26b154c58cc8116356d02bf",
@@ -65,15 +67,15 @@
     "/assets/icons/microphone.svg": "5a2dfcaa8cd4c2dd2300f9b98aab2380f75f692a",
     "/assets/icons/microphonelight.svg": "fd02710d68a4baf8a246e919c215923f0fbdb5af",
     "/assets/icons/search.svg": "33c9d9ea885438f35fff197145e37efeae198d74",
-    "/assets/img/background.webp": "30d50f8359863f4f5c189326bd371f97196738cc",
+    "/assets/img/background.webp": "b2319af3511a4c17a66dedfe6e152dff42aafbd4",
     "/assets/img/concept.dark.png": "8edf7dbbe4af5f84e5655c7c9f0eeaa57c437411",
     "/favicon.ico": "d91c55d8609a997f11eadd3715427633be33c502",
-    "/index.html": "f7ebe7125c7200004031d3f5f333aa35fb015976",
-    "/main-TMJL3D6T.js": "d253e656cf532088956b1826508332d07314108e",
+    "/index.html": "a5a52bf86b46a9b9ef2e171dfa190edf67510c54",
+    "/main-7NHTET3W.js": "db6f5d4e80c8eee898e9626c5c884316254b8da1",
     "/manifest.webmanifest": "6376285d2037e4e70c0fe1c70a00e814159d0b5f",
-    "/media/background-L4REP6ER.webp": "30d50f8359863f4f5c189326bd371f97196738cc",
+    "/media/background-XQYGQZ4G.webp": "b2319af3511a4c17a66dedfe6e152dff42aafbd4",
     "/polyfills-S3BTP7ME.js": "893d641030c187f109c667de1b0a73a03095fa3b",
-    "/styles-KKBHDPDU.css": "ecf57a9fcc3d1d22fcde28816670fb52b727562c"
+    "/styles-PCARJP5K.css": "74eadce960a798a34f11f4d3adf377e4d50a594e"
   },
   "navigationUrls": [
     {
