@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1716978560091,
+  "timestamp": 1716982036174,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-FIDMLXNX.js",
+        "/main-WLUH4IZL.js",
         "/manifest.webmanifest",
         "/polyfills-S3BTP7ME.js",
         "/styles-YHCCIINU.css"
@@ -75,8 +75,8 @@
     "/assets/img/backgroundlight.webp": "e12151c1478bf6d0a3235fce607eb7ea20585c1e",
     "/assets/img/concept.dark.png": "8edf7dbbe4af5f84e5655c7c9f0eeaa57c437411",
     "/favicon.ico": "d91c55d8609a997f11eadd3715427633be33c502",
-    "/index.html": "bb5f6d0899cec6f5d093f6e0edf6ab483a1c6693",
-    "/main-FIDMLXNX.js": "dec48af736d1a0c3e14aa27832151e953f641c3d",
+    "/index.html": "715db4931bf16b9d91bdc5c791848b7767361db5",
+    "/main-WLUH4IZL.js": "55649faa989583fc741df79901702e37db78e54a",
     "/manifest.webmanifest": "6376285d2037e4e70c0fe1c70a00e814159d0b5f",
     "/media/background-QCTF3JWW.webp": "b63ad3a72aaa387984d99f6a30b3d687923a09c5",
     "/media/backgroundlight-EJCWKZWI.webp": "e12151c1478bf6d0a3235fce607eb7ea20585c1e",
