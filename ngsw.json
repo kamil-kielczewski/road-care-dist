@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1719647103998,
+  "timestamp": 1723110595965,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-AFFOSUEA.js",
+        "/main-Y6U5V4HU.js",
         "/manifest.webmanifest",
         "/polyfills-S3BTP7ME.js",
-        "/styles-YHCCIINU.css"
+        "/styles-NYLM6XD5.css"
       ],
       "patterns": []
     },
@@ -66,22 +66,22 @@
     "/assets/icons/icon-512x512.png": "0fa231b26f920fc09ac26141aceba762f60ff3b0",
     "/assets/icons/icon-72x72.png": "de0f009366101b8072e9706ab1fafe768ca57ac6",
     "/assets/icons/icon-96x96.png": "32c5941c357ba27ba25495028d6021f963bc5408",
-    "/assets/icons/location.svg": "589d4e6a8ee95fc876d606dd4dd679fc1589414f",
-    "/assets/icons/microphone.svg": "5a2dfcaa8cd4c2dd2300f9b98aab2380f75f692a",
+    "/assets/icons/location.svg": "849cbddcc26a8e45e0656b571bf5261bdff24b65",
+    "/assets/icons/microphone.svg": "50f8f5d82820105b4730551100f5fc2ef1a2530e",
     "/assets/icons/microphonelight.svg": "fd02710d68a4baf8a246e919c215923f0fbdb5af",
-    "/assets/icons/search.svg": "33c9d9ea885438f35fff197145e37efeae198d74",
+    "/assets/icons/search.svg": "e1eb91bb75a86b50d03cd2a124e202a28a61c635",
     "/assets/img/background.webp": "b63ad3a72aaa387984d99f6a30b3d687923a09c5",
     "/assets/img/background_old.webp": "b2319af3511a4c17a66dedfe6e152dff42aafbd4",
     "/assets/img/backgroundlight.webp": "e12151c1478bf6d0a3235fce607eb7ea20585c1e",
     "/assets/img/concept.dark.png": "8edf7dbbe4af5f84e5655c7c9f0eeaa57c437411",
     "/favicon.ico": "d91c55d8609a997f11eadd3715427633be33c502",
-    "/index.html": "84a0e4d1fc018107526f7ba8cd8e435291cf8e3c",
-    "/main-AFFOSUEA.js": "83bc5615119341c098eb6ac80008a0f8476d356d",
+    "/index.html": "7d2fc987740c2dc42d9aa29a1be3b63403c0f9dc",
+    "/main-Y6U5V4HU.js": "74e8f125b5fec693e40d55921a6df9f1aebe6d92",
     "/manifest.webmanifest": "6376285d2037e4e70c0fe1c70a00e814159d0b5f",
     "/media/background-QCTF3JWW.webp": "b63ad3a72aaa387984d99f6a30b3d687923a09c5",
     "/media/backgroundlight-EJCWKZWI.webp": "e12151c1478bf6d0a3235fce607eb7ea20585c1e",
     "/polyfills-S3BTP7ME.js": "893d641030c187f109c667de1b0a73a03095fa3b",
-    "/styles-YHCCIINU.css": "797c2398ebbd924b9d0660bd679e211b7120a3da"
+    "/styles-NYLM6XD5.css": "fca36600ab29deb8de6392914e7e097b66783505"
   },
   "navigationUrls": [
     {
